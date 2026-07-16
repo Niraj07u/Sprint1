@@ -82,9 +82,7 @@ The project has been successfully deployed on **Vercel** and is publicly accessi
 
 ###  Live Website
 
-** [View Live Project](YOUR_VERCEL_DEPLOYMENT_LINK_HERE)**
-
-> Replace `YOUR_VERCEL_DEPLOYMENT_LINK_HERE` with your actual Vercel deployment URL.
+https://sprint1-lime.vercel.app/
 
 ---
 
@@ -224,8 +222,6 @@ This project has been successfully deployed using **Vercel** for fast, reliable,
 **Vercel**
 
 ### Live Deployment
-
-** [Visit Website](YOUR_VERCEL_DEPLOYMENT_LINK_HERE)**
 
 https://sprint1-lime.vercel.app/
 
