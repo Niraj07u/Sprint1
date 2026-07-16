@@ -252,7 +252,7 @@ https://github.com/Niraj07u/Sprint1/blob/main/Desktop_view.png
 
 ---
 ### Mobile View
-https://github.com/Niraj07u/Sprint1/blob/main/mobile_view.png
+![image alt](https://github.com/Niraj07u/Sprint1/blob/a2abc76e63d442aa41bd088573899c88c7679480/mobile_view.png)
 
 ---
 ## Learning Outcomes
