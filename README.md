@@ -248,7 +248,7 @@ https://sprint1-lime.vercel.app/
 
 ### Home Page
 
-https://github.com/Niraj07u/Sprint1/blob/main/Desktop_view.png
+![image alt](https://github.com/Niraj07u/Sprint1/blob/4eb7ba39ab015feb108736c4a3707dcadbc6468d/Desktop_view.png)
 
 ---
 ### Mobile View
